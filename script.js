@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let totalWidth = 0;
         let isTransitioning = false;
         let autoPlayInterval = null;
-        const speed = 1.2; // Pixels per frame — smooth and steady
+        const speed = 3.2; // Pixels per frame — smooth and steady
 
         // Calculate card dimensions
         function calculateDimensions() {
